@@ -1,13 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kekeds&label=Profile%20views&color=0e75b6&style=flat" alt="kekeds" /> </p>
 
-
+- 🔥 My skills are **Reverse engineering and automation**
 - 🔭 I’m currently working on **funcaptcha solving**
 - 👀 I was previously working on **hcaptcha solving**
-- 📫 How to reach me **https://t.me/kokandg**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/crak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="crak" height="30" width="40" /></a>
+<a href="https://t.me/kokandg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" alt="crak" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
