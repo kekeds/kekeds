@@ -18,4 +18,6 @@
 ```python
 token = Funcaptcha.solve()
 print(token)
+
+"5981802ca45186da3.9896140705|r=eu-west-1..."
 ```
