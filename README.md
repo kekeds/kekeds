@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kekeds&label=Profile%20views&color=0e75b6&style=flat" alt="kekeds" /> </p>
-[![Discord](https://dcbadge.limes.pink/api/shield/1222566837028393041?style=flat&logoColor=presence&theme=clean)](https://discord.com/users/1222566837028393041)
+<p align="left"> <img src="https://dcbadge.limes.pink/api/shield/1222566837028393041?style=flat&logoColor=presence&theme=clean" alt="kekeds" /> </p>=
 
 - 🔥 My skills are **Reverse engineering and automation**
 - 🔥 I’m currently working on **funcaptcha solving**
