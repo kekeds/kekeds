@@ -1,5 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kekeds&label=Profile%20views&color=0e75b6&style=flat" alt="kekeds" /> </p>
-<a href="https://discord.com/users/1222566837028393041" target="blank"><img align="center" src="https://dcbadge.limes.pink/api/shield/1222566837028393041?style=flat&logoColor=presence&theme=clean" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kekeds&label=Profile%20views&color=0e75b6&style=flat" alt="kekeds" /> </p> <a href="https://discord.com/users/1222566837028393041" target="blank"><img align="center" src="https://dcbadge.limes.pink/api/shield/1222566837028393041?style=flat&logoColor=presence&theme=clean" /></a>
 
 - 🔥 My skills are **Reverse engineering and automation**
 - 🔥 I’m currently working on **funcaptcha solving**
