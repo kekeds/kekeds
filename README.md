@@ -2,8 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=kekeds&label=Profile%20views&color=0e75b6&style=flat" alt="kekeds" />
 </span>
 <span>
-  <a href="https://discord.com/users/1222566837028393041" target="blank">
-    <img src="https://dcbadge.limes.pink/api/shield/1222566837028393041?style=flat&logoColor=presence&theme=clean" alt="Discord Badge" />
+  <a href="https://discord.com/users/1302017064940208130" target="blank">
+    <img src="https://dcbadge.limes.pink/api/shield/1302017064940208130?style=flat&logoColor=presence&theme=clean" alt="Discord Badge" />
   </a>
 </span>
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">My contacts:</h3>
 <p align="left">
-<a href="https://discord.com/users/1222566837028393041" target="blank"><img align="center" src="https://static.wikia.nocookie.net/discord/images/e/ea/Discord_PTB.png" height="30" width="40" /></a>
+<a href="https://discord.com/users/1302017064940208130" target="blank"><img align="center" src="https://static.wikia.nocookie.net/discord/images/e/ea/Discord_PTB.png" height="30" width="40" /></a>
 <a href="https://t.me/kokandg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/512px-Telegram_logo.svg.png" height="30" width="40" /></a>
 
 </p>
