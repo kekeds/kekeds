@@ -8,7 +8,7 @@
 </span>
 
 - 🔥 My skills are **Reverse engineering and automation**
-- 🔥 I’m currently working on **funcaptcha solving**
+- 🔥 I’m currently working on **funcaptcha and recaptcha solving**
 
 <h3 align="left">My contacts:</h3>
 <p align="left">
