@@ -17,8 +17,6 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kekeds&show_icons=true&theme=radical" alt="kekeds" /></p>
-
 ```python
 token = Funcaptcha.solve()
 print(token)
